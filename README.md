@@ -3,3 +3,4 @@
 #Turma: Turma A
 
 #Tecnologias usadas: Git, Docker, Terraform, Nginx, Github
+#Objetivo: Demonstrar habilidades nessas tecnologias 
